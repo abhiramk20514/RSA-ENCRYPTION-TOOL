@@ -37,7 +37,7 @@ pip install pycryptodome
 
 ### 🔗 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/abhiram342-vit/RSA-ENCRYPTION
+git clone [https://github.com/abhiramk20514/RSA-ENCRYPTION-TOOL](https://github.com/abhiramk20514/RSA-ENCRYPTION-TOOL)
 cd RSA-ENCRYPTION
 ```
 
@@ -102,7 +102,7 @@ RSA-ENCRYPTION/
 
 ## 🌐 GitHub Repository
 
-🔗 [https://github.com/abhiram342-vit/RSA-ENCRYPTION](https://github.com/abhiram342-vit/RSA-ENCRYPTION)
+🔗 https://github.com/abhiramk20514/RSA-ENCRYPTION-TOOL
 
 
 ## ✅ Final Output
